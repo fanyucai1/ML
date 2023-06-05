@@ -19,5 +19,7 @@ for line in infile:
     if pos>20:
         outfile.write("")
 
+
+
 infile.close()
 outfile.close()
